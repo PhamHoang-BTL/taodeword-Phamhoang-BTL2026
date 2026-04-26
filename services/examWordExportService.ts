@@ -563,7 +563,7 @@ export const exportExamToWord = async (
   const {
     includeAnswerKey = false,
     title,
-    schoolName = 'LMS Thầy Phúc',
+    schoolName = 'LMS Thầy Phạm Hoàng-BTL',
     teacherName,
   } = opts;
 
